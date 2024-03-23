@@ -20,6 +20,15 @@ button, input, textarea {
 
 }
 
+/* Import JetBrains Mono font from Google Fonts API */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+/* Apply JetBrains Mono to code elements */
+code {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: smaller;
+}
+
 button {
 
     cursor: pointer;
