@@ -1,3 +1,0 @@
-cast "Hello, world!"
-cast "This script is being cast from the web and the aupatch software is recieving it! How cool is that?"
-install https://scrundae.github.io at "C:/Program Files (x86)/scrundaegames/script.txt"
